@@ -64,18 +64,23 @@ python src/app.py
 
 ## ✅ Funcionalidades
 
-- [x] Criar e gerenciar projetos
-- [ ] Criar sociedade com grupo de amigos
-- [x] Amigos "compram" ideias de projetos
-- [x] Definição de valores e prazos para entrega
-- [x] Monitoramento do progresso do projeto
-- [x] Penalidade em caso de não entrega
+- [ ] Criar e gerenciar perfil de usuário
+- [ ] Criar e gerenciar projetos
+- [ ] Criar e gerenciar custo por tempo
+- [ ] Criar e gerenciar grupo de amigos
+- [ ] Criar e usar convite para entrar no grupo
+- [ ] Monitorar progresso do projeto
+- [ ] Alerta de penalidade em caso de não entrega
 
 ## 📌 Próximos Passos
 
 - Implementação de um painel para gestão dos projetos
 - Integração com serviços de pagamento
 - Notificações e lembretes automáticos
+- Criação de login e captha
+- Painel analitics para acompanhamento de entregas
+- Criação de Ranking
+- Criação de certificado para publicação no Linkedin
 
 ## 🧪 Testes
 

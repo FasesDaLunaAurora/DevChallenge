@@ -1,4 +1,4 @@
-# 📌 DevChallenge
+# 📌 TaPago
 
 Uma plataforma para desenvolvedores e estudantes que querem tirar projetos do papel! Os usuários adicionam ideias de projetos e desafiam amigos a "comprá-las". Se o projeto não for entregue no prazo combinado, o criador precisa pagar ao amigo o valor estipulado. A ideia é incentivar o compromisso e a motivação para finalizar projetos.
 
